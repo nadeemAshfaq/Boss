@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\BossManifest.xml
+E:\Boss\Boss\bin\Debug\Boss.debugapp

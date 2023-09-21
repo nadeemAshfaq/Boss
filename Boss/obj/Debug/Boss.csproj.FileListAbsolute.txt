@@ -1,0 +1,2 @@
+E:\Boss\Boss\obj\Debug\Boss.csproj.AssemblyReference.cache
+E:\Boss\Boss\obj\Debug\Boss.csproj.CoreCompileInputs.cache
